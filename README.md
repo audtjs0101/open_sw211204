@@ -25,12 +25,13 @@
 ### 4번
 
 * $ vimgolf put 9v0060da5177000000000209
+* 
+![4번](https://user-images.githubusercontent.com/76933278/144705103-9b37895a-d869-4315-973f-a7541dd85ac9.gif)
 
-![4번](https://user-images.githubusercontent.com/76933278/144704463-b281bdf5-051e-4896-9b39-86f7f45ed9b0.gif)
 
 ### 5번
 
 * $ vimgolf put 6013804df3308e0009368f1c
-
-![5번](https://user-images.githubusercontent.com/76933278/144704461-019920e8-6f01-450b-bcdb-7ed7db0fa18b.gif)
+* 
+![5번](https://user-images.githubusercontent.com/76933278/144705099-51b9edcb-074d-4211-91c3-82722c743356.gif)
 
